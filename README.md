@@ -1,2 +1,2 @@
 # nuxt
-nuxt示例
+NuxtJs示例

@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "hello nuxt",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
